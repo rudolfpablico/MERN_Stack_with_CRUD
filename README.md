@@ -3,10 +3,6 @@
 > Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
 ## Quick Start
-
-
-
-
 ```bash
 
 # MONGO DB connection
@@ -40,7 +36,7 @@ npm run client
 
 ## App Info
 
-### Author
+### Authors
 [Carl Pablico](https://rudolfpablico.wixsite.com/home)
 
 
