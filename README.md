@@ -44,8 +44,7 @@ npm run client
 [Carl Pablico](https://rudolfpablico.wixsite.com/home)
 
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Brad Traversy](http://www.traversymedia.com)
 
 ### Version
 
